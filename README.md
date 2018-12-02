@@ -17,4 +17,5 @@ The results can be summarized as follows:
 - Machine learning was then used to predict customer’s satisfaction where an auc of 0.841805 was obtained.
 The top 20 features relevant to prediction was then displayed.
 
+![alt text](https://github.com/ericboss/Santader-customer-satisfaction/blob/master/Screenshot%20(760).png)
 
